@@ -1,0 +1,8 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: banksysphp**
+
+**Developed by Ayush Prajapati**
+
+**Recommended PHP Version 5.6.3, 7.4.12**
+
